@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486732957671",
+    "project_id": "clothingapp-7dfe6",
+    "storage_bucket": "clothingapp-7dfe6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486732957671:android:2f5eb86d00aa0cfa865f42",
+        "android_client_info": {
+          "package_name": "com.example.cwt_ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE4TENOMgChH3yqp1VDzxFWrgUZHB0qOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
